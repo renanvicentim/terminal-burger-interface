@@ -2,6 +2,7 @@
 <br>
 <p>Desenvolvi um e-commerce de uma hamburgueria, onde facilita a administração dos seus clientes, produtos e pedidos. Na parte do cliente, o usuário faz o login ou se cadastra com seus dados, escolhe os produtos desejados, adiciona ao carrinho e finaliza o seu pedido. Na parte do administrador, podemos cadastrar novos produtos e acompanhar todos os pedidos realizados, desde a criação até a sua finalização.</p>
 <br>
+
 ![TB](https://user-images.githubusercontent.com/115510769/236369866-36b97b73-f9c3-4950-af63-c173da18cded.png)
 
 ![TB 1](https://user-images.githubusercontent.com/115510769/236369883-f33e6f77-4ac3-44d6-bda8-ae4e5c9fdccc.png)
